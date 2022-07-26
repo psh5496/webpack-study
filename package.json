@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/psh5496/webpack-study.git",
   "author": "<psh549633@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
