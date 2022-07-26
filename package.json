@@ -2,6 +2,11 @@
   "name": "webpack-study",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
   "repository": "https://github.com/psh5496/webpack-study.git",
   "author": "<psh549633@gmail.com>",
   "license": "MIT",
